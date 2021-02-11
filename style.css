@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(1,43,8);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.code{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    margin: 0;
+}
+
+#section{
+    padding: 20px;
+    background-color: gray;
+    text-align: center;
+    color: blue;
+}
+
+#button{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+h2,h4{
+    color: black;
+}
